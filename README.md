@@ -39,7 +39,7 @@ Any Questions related to Application Process will be answered by the bot. Unlike
 
 #### Steps to run the code:
 
-1. Clone the Github (https://github.com/SJSU272LabF17/Project-Team-3.git)
+1. Clone the Github
 2. Install all node dependencies & MongodB
 3. Start Mongo & node app.js in the terminal
 4. Open localhost:3000 in your browser
